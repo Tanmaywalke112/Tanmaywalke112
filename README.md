@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaywalke112&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaywalke112" /> </p>
 
-- 🔭 I’m currently working on AI chatbot **AI Chatbot**
+- 🔭 I’m currently working on **AI Chatbot**
 
 - 📫 How to reach me **tanmaywalke112@gmail.com**
 
